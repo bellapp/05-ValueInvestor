@@ -1,0 +1,5 @@
+prophet==1.1.4
+holidays==0.14.2
+plotly>=4.0.0
+polygon-api-client>=1.0.0
+langchain-community>=0.0.10 
